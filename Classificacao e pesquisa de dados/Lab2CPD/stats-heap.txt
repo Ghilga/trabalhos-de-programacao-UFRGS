@@ -1,0 +1,75 @@
+1 Caso:
+Trocas = 641
+Chamadas recursivas = 690
+Tempo de execução = 0.03ms
+
+2 Caso:
+Trocas = 517
+Chamadas recursivas = 566
+Tempo de execução = 0.024ms
+
+3 Caso:
+Trocas = 632
+Chamadas recursivas = 681
+Tempo de execução = 0.028ms
+
+4 Caso:
+Trocas = 9151
+Chamadas recursivas = 9650
+Tempo de execução = 0.394ms
+
+5 Caso:
+Trocas = 8990
+Chamadas recursivas = 9489
+Tempo de execução = 0.305ms
+
+6 Caso:
+Trocas = 116697
+Chamadas recursivas = 121696
+Tempo de execução = 3.859ms
+
+7 Caso:
+Trocas = 130767
+Chamadas recursivas = 135766
+Tempo de execução = 4.287ms
+
+8 Caso:
+Trocas = 124952
+Chamadas recursivas = 129951
+Tempo de execução = 4.234ms
+
+9 Caso:
+Trocas = 124149
+Chamadas recursivas = 129148
+Tempo de execução = 4.167ms
+
+10 Caso:
+Trocas = 1497435
+Chamadas recursivas = 1547434
+Tempo de execução = 49.487ms
+
+11 Caso:
+Trocas = 1642809
+Chamadas recursivas = 1692808
+Tempo de execução = 53.811ms
+
+12 Caso:
+Trocas = 1583960
+Chamadas recursivas = 1633959
+Tempo de execução = 53.926ms
+
+13 Caso:
+Trocas = 1574335
+Chamadas recursivas = 1624334
+Tempo de execução = 52.634ms
+
+14 Caso:
+Trocas = 19138079
+Chamadas recursivas = 19638078
+Tempo de execução = 717.586ms
+
+15 Caso:
+Trocas = 19046756
+Chamadas recursivas = 19546755
+Tempo de execução = 666.069ms
+
