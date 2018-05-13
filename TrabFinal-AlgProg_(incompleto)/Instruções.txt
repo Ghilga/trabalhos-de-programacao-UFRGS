@@ -1,0 +1,6 @@
+Eu criei uma biblioteca com as funções principais do menu e uma função menu pronta para chamar no arquivo principal.
+A unica biblioteca que usei que nao tem no codeblocks foi a conio.
+Para compilar o programa é necessario usar o icone de "Rebuild" que compila o projeto inteiro, ao invés do "Build" normalmente usado
+PS: Na hora de colocar as coordenadas para posicionar o barco use o seguinte modelo:
+"linha""coluna", "direcao(V ou H)"
+Com espaço após a virgula e nenhum espaço entre a linha e a coluna.
