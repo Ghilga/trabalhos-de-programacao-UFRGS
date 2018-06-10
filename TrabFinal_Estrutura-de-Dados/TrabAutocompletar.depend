@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1498671927 source:x:\estrutura de dados\trabautocompletar\bibautocomp.c
+	"BibAutoComp.h"
+
+1498673965 x:\estrutura de dados\trabautocompletar\bibautocomp.h
+
+1498675628 source:x:\estrutura de dados\trabautocompletar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BibAutoComp.h"
+	"ArvoreBIN.h"
+
+1498675020 source:x:\estrutura de dados\trabautocompletar\arvorebin.c
+	"ArvoreBIN.h"
+	<stdio.h>
+
+1498674779 x:\estrutura de dados\trabautocompletar\arvorebin.h
+	<stdio.h>
+
+1499194084 source:d:\leo\ufrgs\estrutura de dados\trabautocompletar\bibautocomp.c
+	"BibAutoComp.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1498942308 d:\leo\ufrgs\estrutura de dados\trabautocompletar\bibautocomp.h
+	<stdio.h>
+
+1498845235 source:d:\leo\ufrgs\estrutura de dados\trabautocompletar\arvorebin.c
+	"ArvoreBIN.h"
+	"BibAutoComp.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1498845147 d:\leo\ufrgs\estrutura de dados\trabautocompletar\arvorebin.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1499194094 source:d:\leo\ufrgs\estrutura de dados\trabautocompletar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"BibAutoComp.h"
+
+1498792982 d:\leo\ufrgs\estrutura de dados\trabautocompletar\arvorerb.h
+
+1498793091 source:d:\leo\ufrgs\estrutura de dados\trabautocompletar\arvorerb.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreRB.h"
+
